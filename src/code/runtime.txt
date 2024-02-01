@@ -1,0 +1,52 @@
+Box:
+time= 408.5554463863373
+
+
+DistgDisp:
+
+Working on scene: bicycle...
+time = 26.587926864624023
+Finished! 
+
+(512, 512)
+=
+Working on scene: boxes...
+time = 27.064196348190308
+Finished! 
+
+(512, 512)
+=
+Working on scene: bedroom...
+time = 27.00181531906128
+Finished! 
+
+(512, 512)
+=
+Working on scene: greek...
+time = 27.032084465026855
+Finished! 
+
+
+
+OACC-Net
+Working on scene: bicycle...
+time= 50.67871880531311
+Finished! 
+
+=
+Working on scene: boxes...
+time= 50.28172516822815
+Finished! 
+
+=
+Working on scene: bedroom...
+time= 50.558982133865356
+Finished! 
+
+=
+sc@sc-3:~/Desktop/yongqi/depth/Depth-Estimation-Light-Field/thirdparty/OACC-Net$ /home/sc/miniconda3/envs/depth2/bin/python /home/sc/Desktop/yongqi/depth/Depth-Estimation-Light-Field/thirdparty/OACC-Net/test.py
+Working on scene: greek...
+/home/sc/miniconda3/envs/depth2/lib/python3.6/site-packages/torch/nn/functional.py:3385: UserWarning: Default grid_sample and affine_grid behavior has changed to align_corners=False since 1.3.0. Please specify align_corners=True if the old behavior is desired. See the documentation of grid_sample for details.
+  warnings.warn("Default grid_sample and affine_grid behavior has changed "
+time= 51.61253356933594
+Finished! 
